@@ -65,3 +65,4 @@ fi
 
 # Variablen aufräumen
 unset __deckenv_choice __venv_choice
+Based on https://www.jeromeswannack.com/projects/2024/11/29/steamdeck-userspace-pacman.html
